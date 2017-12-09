@@ -3,6 +3,7 @@ Proyecto para ejercicios de git/github
 
 ## Tareas a realizar por cada integrante del equipo
 Los cambios se han de realizar en local y subir los cambios al remoto cuando este terminada la tarea.
+Utilizar etiquetas vistas hasta ahora, variar en el uso de etiquetas, no usar siempre las mismas.
 
 **IMPORTANTE: Comunicación**
 
